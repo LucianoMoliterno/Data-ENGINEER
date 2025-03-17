@@ -1,24 +1,26 @@
-# Data Engineering Foundations 📊🔧  
-[![Python](https://img.shields.io/badge/Python-3.10+-blue)](https://www.python.org/) [![R](https://img.shields.io/badge/R-4.3.2-276DC3)](https://www.r-project.org/)  
-**Educational repository covering financial data analysis, ETL workflows, and core data engineering skills.**  
+# Data Engineering & Science Foundations 📊🔬 
+[![Python](https://img.shields.io/badge/Python-3.10+-blue)](https://www.python.org/) [![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-1.3.2-orange)](https://scikit-learn.org/)  
+**End-to-end data workflows: ETL pipelines, machine learning, and statistical analysis.**  
 
 ---
 
 ## 🛠️ Core Content  
 
-### **Python Stack**  
+### **Data Engineering**  
 | Topic                      | Key Libraries/APIs         |  
 |----------------------------|----------------------------|  
 | Financial Analysis         | Pandas, NumPy              |  
-| Data Preprocessing         | COVID-19 Spain Dataset     |  
 | API Integration            | Yahoo Finance              |  
+| COVID-19 Preprocessing     | Spain Health Data (.csv)   |  
 
-### **R Essentials**  
-| File          | Focus                          |  
-|---------------|--------------------------------|  
-| `ggplot.R`    | Data visualization             |  
-| `dplyr.R`     | Data manipulation              |  
-| `pivot.R`     | Table transformations          |  
+### **Data Science Introduction**  
+| Algorithm               | Implementation              |  
+|-------------------------|-----------------------------|  
+| Linear Regression       | `sklearn.linear_model`      |  
+| Logistic Regression     | Odds ratio visualization    |  
+| Decision Trees          | Gini impurity analysis      |  
+| K-Means Clustering      | Elbow method (WCSS)         |  
+| PCA                     | Dimensionality reduction    |  
 
 ---
 
@@ -46,3 +48,10 @@ hist = msft.history(period="1y")
 pip install yfinance pandas numpy  
 Rscript -e "install.packages(c('tidyverse', 'lubridate'))"
 ```
+---
+
+## 📜 Certification 
+  - **Autodidactic Validation:** Self-authored documentation & datasets
+  - **Open-Source:** MIT Licensed  
+
+Educational content under MIT License.
