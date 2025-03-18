@@ -31,16 +31,35 @@
   - Export to optimized Parquet format
     
 **2. Yahoo Finance API Pipeline**
-```bash
-from yfinance import Ticker  
-msft = Ticker("MSFT")  
-hist = msft.history(period="1y")
-```
+   - Integration with Yahoo Finance API to get historical stock data
+     
+---
+
+## 📊 Data Analysis
+
+This repository includes **10 data analysis projects** using real-world datasets. Each analysis follows these steps:  
+1. **Load and clean the data**  
+2. **Exploratory data analysis**  
+3. **Data visualization**  
+4. **Key findings and conclusions**
+
+### 🔢 Datasets Used:
+1. **Supermarket Sales**: Sales analysis in a supermarket  
+2. **Credit Card Fraud Detection**: Credit card fraud prediction  
+3. **FIFA Players**: Analysis of FIFA player statistics  
+4. **Walmart Sales Forecasting**: Sales forecasting for Walmart stores  
+5. **Netflix Movies and TV Shows**: Analysis of Netflix content  
+6. **LinkedIn Data Analyst Jobs Listings**: Analysis of Data Analyst job listings  
+7. **Fast-Food Chains in USA**: Information on fast-food chains in the USA  
+8. **Amazon and Best Buy Electronics**: Reviews on electronic products  
+9. **Book Sales Forecasting**: Book sales prediction  
+10. **Real/Fake Job Postings**: Fake job posting prediction
+
 ---
 
 ## 🛠️ Tools & Workflow
 **1. Development:**
-  - Jupyter Lab + VSCode
+  - Jupyter Lab + VSCode +  RStudio
   - RStudio for statistical analysis
     
 **2. Dependencies:**
