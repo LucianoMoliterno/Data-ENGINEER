@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset
+Información de FIFA 15 al 22. 
+En relación a sus jugadores y sus carreras.
