@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction
+Contiene más de 18 mil descripciones de trabajo. 
+Cerca de 800 son falsas
