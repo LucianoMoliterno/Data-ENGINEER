@@ -1,0 +1,9 @@
+Objetivo: Predecir qué clientes dejarán de usar un servicio usando Machine Learning.
+
+Técnicas:
+*Limpieza y exploración de datos
+*Ingeniería de características (feature engineering)
+*Modelos de clasificación (Random Forest, XGBoost, Logistic Regression)
+*Métricas de clasificación (Precision, Recall, F1-Score)
+
+Por Ultimo Genere un dataset de clientes con información ficticia para que pueda entrenar el modelo. 
