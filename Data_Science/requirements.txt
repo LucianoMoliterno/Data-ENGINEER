@@ -1,0 +1,7 @@
+Objetivo: Analizar tweets y clasificarlos como positivos, negativos o neutrales.
+Técnicas:
+- Procesamiento de texto (NLP)
+- TF-IDF y Word Embeddings
+
+Modelos de clasificación (Naive Bayes, LSTM, Transformers)
+Dataset: https://www.kaggle.com/datasets/kazanova/sentiment140
