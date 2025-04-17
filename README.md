@@ -1,6 +1,7 @@
-# Data Engineering & Science Foundations 📊🔬 
-[![Python](https://img.shields.io/badge/Python-3.10+-blue)](https://www.python.org/) [![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-1.3.2-orange)](https://scikit-learn.org/)  
-**End-to-end data workflows: ETL pipelines, machine learning, and statistical analysis.**  
+# Data Engineering & Science Foundations 📊🔬  
+[![Python](https://img.shields.io/badge/Python-3.10+-blue)](https://www.python.org/)  
+[![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-1.3.2-orange)](https://scikit-learn.org/)  
+**End-to-end data workflows: ETL pipelines, machine learning, and statistical analysis.**
 
 ---
 
@@ -13,6 +14,8 @@
 | API Integration            | Yahoo Finance              |  
 | COVID-19 Preprocessing     | Spain Health Data (.csv)   |  
 
+---
+
 ### **Data Science Introduction**  
 | Algorithm               | Implementation              |  
 |-------------------------|-----------------------------|  
@@ -24,26 +27,27 @@
 
 ---
 
-## 🔑 Key Projects
-**1. COVID-19 Spain Preprocessing**
-  - Missing value imputation
-  - Time-series normalization
-  - Export to optimized Parquet format
-    
-**2. Yahoo Finance API Pipeline**
-   - Integration with Yahoo Finance API to get historical stock data
-     
+## 🔑 Key Projects  
+
+**1. COVID-19 Spain Preprocessing**  
+- Missing value imputation  
+- Time-series normalization  
+- Export to optimized Parquet format  
+
+**2. Yahoo Finance API Pipeline**  
+- Integration with Yahoo Finance API to fetch historical stock data  
+
 ---
 
-## 📊 Data Analysis
+## 📊 Data Analysis  
 
 This repository includes **10 data analysis projects** using real-world datasets. Each analysis follows these steps:  
 1. **Load and clean the data**  
 2. **Exploratory data analysis**  
 3. **Data visualization**  
-4. **Key findings and conclusions**
+4. **Key findings and conclusions**  
 
-### 🔢 Datasets Used:
+### 🔢 Datasets Used:  
 1. **Supermarket Sales**: Sales analysis in a supermarket  
 2. **Credit Card Fraud Detection**: Credit card fraud prediction  
 3. **FIFA Players**: Analysis of FIFA player statistics  
@@ -53,24 +57,35 @@ This repository includes **10 data analysis projects** using real-world datasets
 7. **Fast-Food Chains in USA**: Information on fast-food chains in the USA  
 8. **Amazon and Best Buy Electronics**: Reviews on electronic products  
 9. **Book Sales Forecasting**: Book sales prediction  
-10. **Real/Fake Job Postings**: Fake job posting prediction
+10. **Real/Fake Job Postings**: Fake job posting prediction  
 
 ---
 
-## 🛠️ Tools & Workflow
-**1. Development:**
-  - Jupyter Lab + VSCode +  RStudio
-  - RStudio for statistical analysis
-    
-**2. Dependencies:**
+## 🛠️ Tools & Workflow  
+
+**1. Development Environment:**  
+- **Jupyter Lab**: For interactive data analysis  
+- **VSCode**: For scripting and debugging  
+- **RStudio**: For advanced statistical analysis  
+
+**2. Dependencies Installation:**  
 ```bash
-pip install yfinance pandas numpy  
-Rscript -e "install.packages(c('tidyverse', 'lubridate'))"
+# Python dependencies
+pip install yfinance pandas numpy scikit-learn matplotlib seaborn
+
+# R dependencies
+Rscript -e "install.packages(c('tidyverse', 'lubridate', 'ggplot2'))"
 ```
+
 ---
 
-## 📜 Certification 
-  - **Autodidactic Validation:** Self-authored documentation & datasets
-  - **Open-Source:** MIT Licensed  
+## 📜 Certification
+  -  **Autodidactic Validation** : Self-authored documentation & datasets
+  -  **Open-Source** : Licensed under MIT
 
-Educational content under MIT License.
+Educational content under MIT License .
+
+---
+
+## ⚠️ Critical Note
+Always validate data integrity during preprocessing and ensure reproducibility of results by documenting every step!
