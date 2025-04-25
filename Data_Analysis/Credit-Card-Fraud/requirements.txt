@@ -1,4 +1,0 @@
-https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
-
-Credit Card Fraud Detection 
-Transacciones realizadas en septiembre de 2013, por ciudadanos europeos
