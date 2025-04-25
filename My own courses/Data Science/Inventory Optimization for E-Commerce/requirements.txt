@@ -1,0 +1,7 @@
+Objetivo: Predecir qué productos tendrán alta demanda para optimizar el stock.
+Técnicas:
+- Modelos de predicción de demanda
+- Series temporales
+- Optimización de inventarios con programación lineal
+
+Dataset: https://www.kaggle.com/datasets/nevildhinoja/e-commerce-sales-prediction-dataset

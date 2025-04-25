@@ -1,0 +1,2 @@
+Información de los Top 50 cadenas de comida rápida en USA (2021)
+https://www.kaggle.com/datasets/iamsouravbanerjee/top-50-fastfood-chains-in-usa

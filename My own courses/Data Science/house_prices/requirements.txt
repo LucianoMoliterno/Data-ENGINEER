@@ -1,0 +1,7 @@
+Objetivo: Crear un modelo que prediga el precio de una vivienda según sus características.
+Técnicas:
+-Exploración de datos y correlaciones
+-Transformaciones de datos
+-Modelos de regresión (Linear Regression, Decision Trees, XGBoost)
+-Métricas de regresión (RMSE, MAE, R²)
+

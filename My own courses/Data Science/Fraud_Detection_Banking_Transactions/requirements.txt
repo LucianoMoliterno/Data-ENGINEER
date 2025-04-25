@@ -1,0 +1,2 @@
+Objetivo: Identificar transacciones fraudulentas utilizando Machine Learning.
+Dataset: Un dataset con transacciones bancarias donde cada fila representa una transacción con características como monto, tipo de transacción, ubicación, etc.

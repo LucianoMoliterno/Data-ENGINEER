@@ -1,0 +1,7 @@
+Objetivo: Predecir cuántos taxis se necesitarán en una ciudad según el clima, hora y día.
+Técnicas:
+- Series temporales (Time Series Analysis)
+- Modelos de predicción (ARIMA, LSTM, Prophet)
+- Análisis de patrones estacionales
+
+Dataset: https://www.kaggle.com/code/sohaibanwaar1203/taxi-demand-prediction

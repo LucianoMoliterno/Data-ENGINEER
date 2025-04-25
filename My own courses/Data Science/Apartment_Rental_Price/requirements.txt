@@ -1,0 +1,4 @@
+LINK: https://data.buenosaires.gob.ar/dataset/mercado-inmobiliario/resource/46a22a0a-f911-46fb-99dd-b2a4ded3faef?utm_source=chatgpt.com
+Este conjunto de datos proporciona 
+el precio promedio mensual en pesos de departamentos en alquiler de 2 y 3 ambientes, 
+tanto usados como a estrenar, en la Ciudad de Buenos Aires.
